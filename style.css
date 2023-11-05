@@ -1,0 +1,10 @@
+*{
+    background-color: #7314cc;
+}
+
+.word{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(72, 255, 0);
+}
